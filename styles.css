@@ -1,0 +1,192 @@
+@charset "UTF-8";
+img{
+	position: absolute;
+
+}
+.hourglass{
+
+	
+}
+
+.Socials{
+	position: absolute;
+	left: 0px;
+	
+}
+
+.insta{
+	left:150px;
+	width:200px;
+	top:150px;
+}
+
+.tapas{
+	width:180px;
+	left:500px;
+	top:150px;
+}
+
+.tumblr{
+	width:150px;
+	left:850px;
+	top:160px;
+}
+
+.youtube{
+	width:190px;
+	left:1200px;
+	top:140px;
+	
+}
+.furry{
+	left: 1000px;
+	top: 900px;
+}
+
+.run{
+	width:400px;
+	left: 20px;
+	top: 430px;
+}
+
+.text{
+	width: 1200px;
+	left: 200px;
+	top: 450px;
+
+}
+
+.sheet{
+	top: 600px;
+	left:40px;
+}
+
+.Shade_Example{
+	width: 250px;
+	left: 30px;
+	top: 1550px;
+	
+}
+
+.Realism_Example{
+	width: 250px;
+	left: 330px;
+	top:1550px;
+}
+
+.Shade2_Example{
+	width:250px;
+	left: 630px;
+	top: 1550px;
+}
+
+.Realism2_Example{
+	width:250px;
+	left: 930px;
+	top: 1550px;
+}
+
+.F_Art{
+	width:250px;
+	left:1230px;
+	top: 1550px;
+
+}
+
+.text7{
+	width:1000px;
+	left:380px;
+	top:1900px;
+}
+
+.textbubble{
+	width:260px;
+	left:0px;
+	top:1050px;
+}
+
+.clickme{
+	width:260px;
+	left:100px;
+	top:1145px;
+}
+
+.bg2{
+	
+}
+.textsbg{
+	width:1700px;
+}
+
+.glitch{
+	width:1800px;
+
+}
+
+.heart{
+	top:1020px;
+	left:445px;
+	width:1000px;
+}
+
+.bgphoto3{
+	
+}
+
+.bgphoto4{
+	;
+}
+
+.sadtexts{
+	top:80px;
+	left:450px;
+	width:800px;
+}
+
+.cryingtexts{
+	top:340px;
+	left:420px;
+	width:800px;
+}
+
+.thinktexts{
+	top:630px;
+	left:420px;
+	width:800px;
+}
+
+.pointtexts{
+	top:900px;
+	left:420px;
+	width:800px;
+}
+
+.lovetexts{
+	top:1400px;
+	left:420px;
+	width:800px;
+}
+
+.website1{
+	width:100px;
+	top:1200px;
+	left:450px;
+}
+
+.website4{
+	width:100px;
+	top:1200px;
+	left:730px;
+}
+
+.website2{
+	width:100px;
+	top:1200px;
+	left:1000px;
+}
+
+.website3{
+	width:100px;
+	top:1200px;
+	left:1250px;
+}
